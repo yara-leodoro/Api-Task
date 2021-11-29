@@ -33,3 +33,8 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
+
+#Dir
+
+bin/
+obj/
